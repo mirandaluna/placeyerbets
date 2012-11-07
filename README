@@ -1,0 +1,4 @@
+This is a little site I'm putting together for Mobile Services demos. Using Twilio and Windows Azure Web Sites, I'll display a page with a Twilio number and ask attendees to 
+
+Feel free to use and modify this.  I make no claims that this is bulletproof or that you shouldn't add some more validation before exposing to unfriendly audiences.
+
